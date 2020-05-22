@@ -1,0 +1,67 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="optional" />
+      <item value="解绑" />
+      <item value="存在" />
+      <item value="config" />
+      <item value="管理" />
+      <item value="stderr" />
+      <item value="weekday" />
+      <item value="weekdate" />
+      <item value="周几" />
+      <item value="周" />
+      <item value="星期" />
+      <item value="常量" />
+      <item value="冥想" />
+      <item value="审核" />
+      <item value="已审核" />
+      <item value="已挂起" />
+      <item value="挂起" />
+      <item value="已通过" />
+      <item value="通过" />
+      <item value="不通过" />
+      <item value="存档" />
+      <item value="通过时间" />
+      <item value="关联" />
+      <item value="clause" />
+      <item value="reversed" />
+      <item value="预约时间" />
+      <item value="预约" />
+      <item value="params" />
+      <item value="param" />
+      <item value="prams" />
+      <item value="alias" />
+      <item value="大图" />
+      <item value="external" />
+      <item value="Condition" />
+      <item value="Selective" />
+      <item value="escaped" />
+      <item value="压缩图片" />
+      <item value="Flag" />
+      <item value="流程" />
+      <item value="author" />
+      <item value="分析报告" />
+      <item value="media" />
+      <item value="dry" />
+      <item value="干眼仪" />
+      <item value="解析数据" />
+      <item value="解析" />
+      <item value="query" />
+      <item value="设备类型" />
+      <item value="设备" />
+      <item value="navigation" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="75" />
+        <entry key="ENGLISH" value="76" />
+        <entry key="CHINESE_TRADITIONAL" value="1" />
+        <entry key="FRENCH" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>
