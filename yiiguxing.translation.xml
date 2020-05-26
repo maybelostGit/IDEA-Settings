@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="face club" />
+      <item value="faceclub" />
+      <item value="club" />
       <item value="navigate" />
       <item value="花儿" />
       <item value="内测" />
@@ -48,9 +51,6 @@
       <item value="流程" />
       <item value="author" />
       <item value="分析报告" />
-      <item value="media" />
-      <item value="dry" />
-      <item value="干眼仪" />
     </histories>
     <option name="languageScores">
       <map>
