@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Suspended" />
       <item value="bundled" />
       <item value="Simple Test" />
       <item value="白名单" />
@@ -50,12 +51,11 @@
       <item value="external" />
       <item value="Condition" />
       <item value="Selective" />
-      <item value="escaped" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="79" />
-        <entry key="ENGLISH" value="79" />
+        <entry key="ENGLISH" value="80" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
       </map>
