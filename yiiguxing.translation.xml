@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="resolve" />
       <item value="dialect" />
       <item value="Suspended" />
       <item value="bundled" />
@@ -50,7 +51,6 @@
       <item value="大图" />
       <item value="external" />
       <item value="Condition" />
-      <item value="Selective" />
     </histories>
     <option name="languageScores">
       <map>
