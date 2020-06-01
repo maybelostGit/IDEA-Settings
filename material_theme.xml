@@ -1,0 +1,9 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="selectedTheme" value="GITHUB" />
+    <option name="userId" value="-4dfe514f:1726eedc350:-8000" />
+    <option name="version" value="4.5.2" />
+  </component>
+</application>
