@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="型号" />
+      <item value="size" />
       <item value="申请人" />
       <item value="保管人" />
       <item value="去向" />
-      <item value="型号" />
       <item value="品牌" />
       <item value="产品" />
       <item value="申请时间" />
@@ -50,12 +51,11 @@
       <item value="不通过" />
       <item value="存档" />
       <item value="通过时间" />
-      <item value="关联" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="82" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
       </map>
