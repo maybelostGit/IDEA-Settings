@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="custodians" />
+      <item value="custodian" />
+      <item value="是否通过" />
+      <item value="通过" />
       <item value="型号" />
       <item value="size" />
       <item value="申请人" />
@@ -47,14 +51,10 @@
       <item value="已挂起" />
       <item value="挂起" />
       <item value="已通过" />
-      <item value="通过" />
-      <item value="不通过" />
-      <item value="存档" />
-      <item value="通过时间" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="81" />
+        <entry key="CHINESE" value="82" />
         <entry key="ENGLISH" value="82" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
