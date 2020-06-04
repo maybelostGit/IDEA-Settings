@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reversed" />
+      <item value="男性" />
+      <item value="女性" />
       <item value="john" />
       <item value="smarttype" />
       <item value="navigate" />
@@ -48,14 +51,11 @@
       <item value="星期" />
       <item value="常量" />
       <item value="冥想" />
-      <item value="审核" />
-      <item value="已审核" />
-      <item value="已挂起" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="CHINESE" value="84" />
+        <entry key="ENGLISH" value="85" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
       </map>
