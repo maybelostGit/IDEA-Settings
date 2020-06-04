@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="smarttype" />
       <item value="navigate" />
       <item value="custodians" />
       <item value="custodian" />
@@ -50,7 +51,6 @@
       <item value="已审核" />
       <item value="已挂起" />
       <item value="挂起" />
-      <item value="已通过" />
     </histories>
     <option name="languageScores">
       <map>
