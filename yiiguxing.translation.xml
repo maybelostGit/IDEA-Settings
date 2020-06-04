@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="navigate" />
       <item value="custodians" />
       <item value="custodian" />
       <item value="是否通过" />
@@ -29,7 +30,6 @@
       <item value="face club" />
       <item value="faceclub" />
       <item value="club" />
-      <item value="navigate" />
       <item value="花儿" />
       <item value="内测" />
       <item value="profiler" />
