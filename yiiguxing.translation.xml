@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="结束日期" />
+      <item value="采购时间" />
+      <item value="购买" />
+      <item value="采购" />
+      <item value="采购人" />
       <item value="properties" />
       <item value="宣传" />
       <item value="介质" />
@@ -46,16 +51,11 @@
       <item value="face club" />
       <item value="faceclub" />
       <item value="club" />
-      <item value="花儿" />
-      <item value="内测" />
-      <item value="profiler" />
-      <item value="profile" />
-      <item value="optional" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="87" />
-        <entry key="ENGLISH" value="87" />
+        <entry key="ENGLISH" value="88" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
       </map>
