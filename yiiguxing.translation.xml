@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="申请" />
       <item value="管理" />
       <item value="设备管理" />
       <item value="设备维护" />
@@ -42,7 +43,6 @@
       <item value="品牌" />
       <item value="产品" />
       <item value="申请时间" />
-      <item value="申请" />
       <item value="query" />
       <item value="indent" />
       <item value="resolve" />
