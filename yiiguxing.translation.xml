@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="clear" />
       <item value="申请" />
       <item value="管理" />
       <item value="设备管理" />
@@ -50,11 +51,10 @@
       <item value="Suspended" />
       <item value="bundled" />
       <item value="Simple Test" />
-      <item value="白名单" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="88" />
+        <entry key="CHINESE" value="89" />
         <entry key="ENGLISH" value="89" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
