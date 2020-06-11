@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="plus" />
+      <item value="request" />
+      <item value="application" />
+      <item value="apple" />
+      <item value="Lemon" />
+      <item value="Lemonplus" />
+      <item value="小王子" />
+      <item value="Lemon9527" />
+      <item value="Lemon_se7en" />
+      <item value="lemon" />
       <item value="解析" />
       <item value="clear" />
       <item value="申请" />
@@ -41,21 +51,11 @@
       <item value="size" />
       <item value="申请人" />
       <item value="保管人" />
-      <item value="去向" />
-      <item value="品牌" />
-      <item value="产品" />
-      <item value="申请时间" />
-      <item value="query" />
-      <item value="indent" />
-      <item value="resolve" />
-      <item value="dialect" />
-      <item value="Suspended" />
-      <item value="bundled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="89" />
-        <entry key="ENGLISH" value="90" />
+        <entry key="CHINESE" value="92" />
+        <entry key="ENGLISH" value="92" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
       </map>
