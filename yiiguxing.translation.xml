@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="begin Date" />
+      <item value="beginDate" />
       <item value="修改" />
       <item value="modify" />
       <item value="seeyouagain" />
@@ -49,12 +51,10 @@
       <item value="结束日期" />
       <item value="采购时间" />
       <item value="购买" />
-      <item value="采购" />
-      <item value="采购人" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="99" />
+        <entry key="CHINESE" value="100" />
         <entry key="ENGLISH" value="100" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
@@ -62,6 +62,16 @@
     </option>
   </component>
   <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="primaryLanguage" value="CHINESE" />
+      </app-key>
+    </option>
     <option name="ignoreRegExp" value="" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="primaryLanguage" value="AUTO" />
+      </youdao-translate>
+    </option>
   </component>
 </application>
