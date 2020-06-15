@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="治疗难度" />
+      <item value="难度" />
       <item value="自动检测" />
       <item value="zidongjiance" />
       <item value="紫荆港" />
@@ -49,8 +51,6 @@
       <item value="custodians" />
       <item value="custodian" />
       <item value="是否通过" />
-      <item value="通过" />
-      <item value="型号" />
     </histories>
     <option name="languageScores">
       <map>
