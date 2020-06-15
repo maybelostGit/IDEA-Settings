@@ -1,22 +1,39 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="seeyouagain" />
+      <item value="real" />
+      <item value="Sam" />
+      <item value="John" />
+      <item value="上帝压狗" />
+      <item value="samgold" />
+      <item value="山姆高德" />
+      <item value="小王子" />
+      <item value="the letter" />
+      <item value="the litter" />
+      <item value="lemonplus" />
+      <item value="Lemonforyou" />
+      <item value="Lemonforsex" />
+      <item value="Lemon" />
+      <item value="lemon" />
+      <item value="thank" />
+      <item value="think" />
+      <item value="Think" />
+      <item value="profile" />
+      <item value="exit" />
       <item value="关键词" />
       <item value="治疗难度" />
       <item value="难度" />
       <item value="自动检测" />
       <item value="zidongjiance" />
       <item value="紫荆港" />
-      <item value="Lemon" />
       <item value="plus" />
       <item value="request" />
       <item value="application" />
       <item value="apple" />
       <item value="Lemonplus" />
-      <item value="小王子" />
       <item value="Lemon9527" />
       <item value="Lemon_se7en" />
-      <item value="lemon" />
       <item value="解析" />
       <item value="clear" />
       <item value="申请" />
@@ -34,28 +51,11 @@
       <item value="采购人" />
       <item value="properties" />
       <item value="宣传" />
-      <item value="介质" />
-      <item value="media" />
-      <item value="结构" />
-      <item value="到点" />
-      <item value="james" />
-      <item value="lebron" />
-      <item value="zhenshide" />
-      <item value="zhenshi" />
-      <item value="dialog" />
-      <item value="reversed" />
-      <item value="男性" />
-      <item value="女性" />
-      <item value="john" />
-      <item value="smarttype" />
-      <item value="navigate" />
-      <item value="custodians" />
-      <item value="custodian" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="95" />
-        <entry key="ENGLISH" value="96" />
+        <entry key="CHINESE" value="99" />
+        <entry key="ENGLISH" value="99" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
       </map>
