@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This may either move the file in the filesystem, copy the file in the * filesystem, or save memory-held contents to the destination file. If the * destination file already exists, it will be deleted first" />
+      <item value="todo" />
+      <item value="bugs" />
+      <item value="findbugs" />
+      <item value="terminal" />
+      <item value="enterprise" />
+      <item value="chosen" />
       <item value="harper" />
       <item value="哈珀" />
       <item value="match" />
@@ -44,18 +51,11 @@
       <item value="Lemon9527" />
       <item value="Lemon_se7en" />
       <item value="解析" />
-      <item value="clear" />
-      <item value="申请" />
-      <item value="管理" />
-      <item value="设备管理" />
-      <item value="设备维护" />
-      <item value="维护" />
-      <item value="审核" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="102" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="ENGLISH" value="103" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
       </map>
