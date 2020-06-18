@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="initialization" />
       <item value="This may either move the file in the filesystem, copy the file in the * filesystem, or save memory-held contents to the destination file. If the * destination file already exists, it will be deleted first" />
       <item value="todo" />
       <item value="bugs" />
@@ -50,11 +51,10 @@
       <item value="Lemonplus" />
       <item value="Lemon9527" />
       <item value="Lemon_se7en" />
-      <item value="解析" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="102" />
+        <entry key="CHINESE" value="103" />
         <entry key="ENGLISH" value="103" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
