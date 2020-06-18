@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Assert" />
       <item value="initialization" />
       <item value="This may either move the file in the filesystem, copy the file in the * filesystem, or save memory-held contents to the destination file. If the * destination file already exists, it will be deleted first" />
       <item value="todo" />
@@ -50,7 +51,6 @@
       <item value="apple" />
       <item value="Lemonplus" />
       <item value="Lemon9527" />
-      <item value="Lemon_se7en" />
     </histories>
     <option name="languageScores">
       <map>
