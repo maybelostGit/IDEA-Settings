@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="待办" />
+      <item value="handle" />
+      <item value="审核" />
+      <item value="处理人" />
+      <item value="handler" />
       <item value="alias" />
       <item value="Assert" />
       <item value="initialization" />
@@ -46,16 +51,11 @@
       <item value="自动检测" />
       <item value="zidongjiance" />
       <item value="紫荆港" />
-      <item value="plus" />
-      <item value="request" />
-      <item value="application" />
-      <item value="apple" />
-      <item value="Lemonplus" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
-        <entry key="ENGLISH" value="103" />
+        <entry key="CHINESE" value="104" />
+        <entry key="ENGLISH" value="105" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
       </map>
