@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="预约" />
+      <item value="重新" />
+      <item value="重新预约" />
+      <item value="重新绑定" />
       <item value="区间" />
       <item value="待办" />
       <item value="handle" />
@@ -47,10 +51,6 @@
       <item value="profile" />
       <item value="exit" />
       <item value="关键词" />
-      <item value="治疗难度" />
-      <item value="难度" />
-      <item value="自动检测" />
-      <item value="zidongjiance" />
     </histories>
     <option name="languageScores">
       <map>
