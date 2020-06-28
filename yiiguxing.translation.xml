@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="操作者" />
+      <item value="operator" />
       <item value="存在" />
       <item value="预约" />
       <item value="重新" />
@@ -49,13 +51,11 @@
       <item value="thank" />
       <item value="think" />
       <item value="Think" />
-      <item value="profile" />
-      <item value="exit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="104" />
-        <entry key="ENGLISH" value="105" />
+        <entry key="CHINESE" value="105" />
+        <entry key="ENGLISH" value="106" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
       </map>
