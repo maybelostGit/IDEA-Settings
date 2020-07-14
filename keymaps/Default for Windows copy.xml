@@ -2,7 +2,12 @@
   <action id="HippieCompletion">
     <keyboard-shortcut first-keystroke="shift ctrl space" />
   </action>
+  <action id="IntroduceTypeAlias" />
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="one.util.ideaplugin.screenshoter.CopyImageAction" />
+  <action id="one.util.ideaplugin.screenshoter.SaveImageAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt a" />
   </action>
 </keymap>
