@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="videos" />
       <item value="portal" />
       <item value="blame" />
       <item value="appliance" />
@@ -50,12 +51,11 @@
       <item value="小王子" />
       <item value="the letter" />
       <item value="the litter" />
-      <item value="lemonplus" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="106" />
-        <entry key="ENGLISH" value="106" />
+        <entry key="ENGLISH" value="107" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
@@ -63,16 +63,6 @@
     </option>
   </component>
   <component name="Settings">
-    <option name="baiduTranslateSettings">
-      <app-key>
-        <option name="primaryLanguage" value="CHINESE" />
-      </app-key>
-    </option>
     <option name="ignoreRegExp" value="" />
-    <option name="youdaoTranslateSettings">
-      <youdao-translate>
-        <option name="primaryLanguage" value="AUTO" />
-      </youdao-translate>
-    </option>
   </component>
 </application>
