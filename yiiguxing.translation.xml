@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="基本信息" />
+      <item value="basic Information" />
+      <item value="Examination" />
+      <item value="Examine" />
       <item value="videos" />
       <item value="portal" />
       <item value="blame" />
@@ -47,15 +51,11 @@
       <item value="John" />
       <item value="上帝压狗" />
       <item value="samgold" />
-      <item value="山姆高德" />
-      <item value="小王子" />
-      <item value="the letter" />
-      <item value="the litter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="106" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="CHINESE" value="111" />
+        <entry key="ENGLISH" value="112" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
