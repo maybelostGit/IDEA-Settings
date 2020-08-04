@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="备注" />
       <item value="Implicit" />
       <item value="基本信息" />
       <item value="basic Information" />
@@ -50,12 +51,11 @@
       <item value="real" />
       <item value="Sam" />
       <item value="John" />
-      <item value="上帝压狗" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="112" />
-        <entry key="ENGLISH" value="113" />
+        <entry key="CHINESE" value="113" />
+        <entry key="ENGLISH" value="114" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
