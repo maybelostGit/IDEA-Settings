@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="invite" />
+      <item value="trash" />
+      <item value="portal" />
       <item value="flow" />
       <item value="回显" />
       <item value="execution" />
@@ -13,7 +16,6 @@
       <item value="Examination" />
       <item value="Examine" />
       <item value="videos" />
-      <item value="portal" />
       <item value="blame" />
       <item value="appliance" />
       <item value="otherDiagnosis" />
@@ -49,8 +51,6 @@
       <item value="日记" />
       <item value="client" />
       <item value="begin Date" />
-      <item value="beginDate" />
-      <item value="修改" />
     </histories>
     <option name="languageScores">
       <map>
