@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="keyword" />
+      <item value="keywords" />
+      <item value="keywors" />
+      <item value="关键字" />
+      <item value="upgrade" />
+      <item value="upgrage" />
       <item value="invite" />
       <item value="trash" />
       <item value="portal" />
@@ -45,17 +51,11 @@
       <item value="terminal" />
       <item value="enterprise" />
       <item value="chosen" />
-      <item value="harper" />
-      <item value="哈珀" />
-      <item value="match" />
-      <item value="日记" />
-      <item value="client" />
-      <item value="begin Date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="115" />
-        <entry key="ENGLISH" value="115" />
+        <entry key="CHINESE" value="116" />
+        <entry key="ENGLISH" value="116" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
