@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Criteria" />
       <item value="keyword" />
       <item value="keywords" />
       <item value="keywors" />
@@ -50,7 +51,6 @@
       <item value="findbugs" />
       <item value="terminal" />
       <item value="enterprise" />
-      <item value="chosen" />
     </histories>
     <option name="languageScores">
       <map>
