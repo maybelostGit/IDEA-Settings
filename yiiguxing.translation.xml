@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="offtime" />
+      <item value="截止日期" />
+      <item value="操作人" />
+      <item value="操作状态" />
+      <item value="操作" />
       <item value="depth" />
       <item value="Criteria" />
       <item value="keyword" />
@@ -46,16 +51,11 @@
       <item value="alias" />
       <item value="Assert" />
       <item value="initialization" />
-      <item value="This may either move the file in the filesystem, copy the file in the * filesystem, or save memory-held contents to the destination file. If the * destination file already exists, it will be deleted first" />
-      <item value="todo" />
-      <item value="bugs" />
-      <item value="findbugs" />
-      <item value="terminal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="116" />
-        <entry key="ENGLISH" value="116" />
+        <entry key="CHINESE" value="117" />
+        <entry key="ENGLISH" value="117" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
