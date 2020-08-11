@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="演示" />
+      <item value="删除" />
+      <item value="存档" />
+      <item value="正常" />
+      <item value="归档" />
       <item value="cutofftime" />
       <item value="cutoff" />
       <item value="offtime" />
@@ -46,16 +51,11 @@
       <item value="重新预约" />
       <item value="重新绑定" />
       <item value="待办" />
-      <item value="handle" />
-      <item value="审核" />
-      <item value="处理人" />
-      <item value="handler" />
-      <item value="alias" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="117" />
-        <entry key="ENGLISH" value="117" />
+        <entry key="ENGLISH" value="118" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
