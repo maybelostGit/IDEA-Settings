@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cutofftime" />
+      <item value="cutoff" />
       <item value="offtime" />
       <item value="截止日期" />
       <item value="操作人" />
@@ -49,8 +51,6 @@
       <item value="处理人" />
       <item value="handler" />
       <item value="alias" />
-      <item value="Assert" />
-      <item value="initialization" />
     </histories>
     <option name="languageScores">
       <map>
