@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="软组织" />
+      <item value="口腔" />
       <item value="肌功能检测记录" />
       <item value="体重" />
       <item value="身高" />
@@ -49,8 +51,6 @@
       <item value="blame" />
       <item value="appliance" />
       <item value="otherDiagnosis" />
-      <item value="Respository" />
-      <item value="取消预约" />
     </histories>
     <option name="languageScores">
       <map>
