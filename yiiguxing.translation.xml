@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="头颅侧位片" />
+      <item value="模型分析" />
       <item value="diagnosis" />
       <item value="Skin" />
       <item value="组装信息" />
@@ -49,13 +51,11 @@
       <item value="备注" />
       <item value="Implicit" />
       <item value="基本信息" />
-      <item value="basic Information" />
-      <item value="Examination" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="123" />
-        <entry key="ENGLISH" value="123" />
+        <entry key="ENGLISH" value="124" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
