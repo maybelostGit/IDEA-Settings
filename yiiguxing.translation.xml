@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Param" />
+      <item value="Params" />
       <item value="complaints" />
       <item value="组装" />
       <item value="头颅侧位片" />
@@ -49,8 +51,6 @@
       <item value="execution" />
       <item value="临床资料" />
       <item value="临床" />
-      <item value="备注" />
-      <item value="Implicit" />
     </histories>
     <option name="languageScores">
       <map>
