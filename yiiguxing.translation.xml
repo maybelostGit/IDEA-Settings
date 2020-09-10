@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="家长姓名" />
       <item value="orthodontics" />
       <item value="scale" />
       <item value="rounding mode to apply" />
@@ -50,12 +51,11 @@
       <item value="截止日期" />
       <item value="操作人" />
       <item value="操作状态" />
-      <item value="操作" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="131" />
-        <entry key="ENGLISH" value="131" />
+        <entry key="ENGLISH" value="132" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
