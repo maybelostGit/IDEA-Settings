@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="科室" />
+      <item value="主任" />
       <item value="家长姓名" />
       <item value="orthodontics" />
       <item value="scale" />
@@ -12,10 +14,8 @@
       <item value="processed" />
       <item value="Chain" />
       <item value="director" />
-      <item value="主任" />
       <item value="member" />
       <item value="成员" />
-      <item value="科室" />
       <item value="isPresent" />
       <item value="entity" />
       <item value="Param" />
