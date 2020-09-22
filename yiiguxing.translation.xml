@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="就诊时间" />
       <item value="relocate" />
       <item value="navigate" />
       <item value="科室" />
@@ -50,12 +51,11 @@
       <item value="cutofftime" />
       <item value="cutoff" />
       <item value="offtime" />
-      <item value="截止日期" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="132" />
-        <entry key="ENGLISH" value="132" />
+        <entry key="ENGLISH" value="133" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
