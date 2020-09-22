@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="primitive" />
       <item value="Predicate" />
       <item value="Consumer" />
       <item value="就诊时间" />
@@ -13,7 +14,6 @@
       <item value="scale" />
       <item value="rounding mode to apply" />
       <item value="assemble" />
-      <item value="primitive" />
       <item value="完整" />
       <item value="待处理" />
       <item value="processed" />
