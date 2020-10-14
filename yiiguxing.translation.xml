@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="layout" />
       <item value="META" />
       <item value="deploy" />
       <item value="enable" />
@@ -50,11 +51,10 @@
       <item value="Appointed" />
       <item value="Appoint" />
       <item value="已完成" />
-      <item value="待指派" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="135" />
+        <entry key="CHINESE" value="136" />
         <entry key="ENGLISH" value="136" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
