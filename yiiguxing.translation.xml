@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="结构" />
+      <item value="structure" />
+      <item value="tail" />
       <item value="enterprise" />
       <item value="hidden" />
       <item value="layout" />
@@ -48,14 +51,11 @@
       <item value="口腔" />
       <item value="肌功能检测记录" />
       <item value="体重" />
-      <item value="身高" />
-      <item value="Appointing" />
-      <item value="Appointed" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="137" />
-        <entry key="ENGLISH" value="137" />
+        <entry key="ENGLISH" value="138" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
