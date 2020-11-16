@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inject" />
       <item value="dream it possible" />
       <item value="possible" />
       <item value="apprearance" />
@@ -50,7 +51,6 @@
       <item value="diagnosis" />
       <item value="Skin" />
       <item value="组装信息" />
-      <item value="VIDEO" />
     </histories>
     <option name="languageScores">
       <map>
