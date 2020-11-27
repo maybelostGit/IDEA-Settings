@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="执行" />
       <item value="quick 1" />
       <item value="quick" />
       <item value="elevator" />
@@ -50,12 +51,11 @@
       <item value="isPresent" />
       <item value="entity" />
       <item value="Param" />
-      <item value="Params" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="142" />
-        <entry key="ENGLISH" value="142" />
+        <entry key="ENGLISH" value="143" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
