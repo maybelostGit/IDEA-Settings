@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="原始文件" />
+      <item value="原始的" />
+      <item value="上传图片" />
       <item value="开始时间" />
       <item value="备注" />
       <item value="阶段编号" />
@@ -48,9 +51,6 @@
       <item value="rounding mode to apply" />
       <item value="assemble" />
       <item value="完整" />
-      <item value="待处理" />
-      <item value="processed" />
-      <item value="Chain" />
     </histories>
     <option name="languageScores">
       <map>
