@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="服务" />
       <item value="执行" />
       <item value="quick 1" />
       <item value="quick" />
@@ -50,7 +51,6 @@
       <item value="成员" />
       <item value="isPresent" />
       <item value="entity" />
-      <item value="Param" />
     </histories>
     <option name="languageScores">
       <map>
