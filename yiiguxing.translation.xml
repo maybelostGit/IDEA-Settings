@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="treatment records" />
+      <item value="矫治记录" />
       <item value="服务" />
       <item value="执行" />
       <item value="quick 1" />
@@ -49,12 +51,10 @@
       <item value="director" />
       <item value="member" />
       <item value="成员" />
-      <item value="isPresent" />
-      <item value="entity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="142" />
+        <entry key="CHINESE" value="143" />
         <entry key="ENGLISH" value="143" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
