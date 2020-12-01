@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="资源不存在" />
       <item value="原始文件" />
       <item value="原始的" />
       <item value="上传图片" />
@@ -50,7 +51,6 @@
       <item value="scale" />
       <item value="rounding mode to apply" />
       <item value="assemble" />
-      <item value="完整" />
     </histories>
     <option name="languageScores">
       <map>
