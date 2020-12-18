@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="战术板" />
+      <item value="战术" />
       <item value="缓存" />
       <item value="cache" />
       <item value="intermediate" />
@@ -49,8 +51,6 @@
       <item value="primitive" />
       <item value="Predicate" />
       <item value="Consumer" />
-      <item value="就诊时间" />
-      <item value="relocate" />
     </histories>
     <option name="languageScores">
       <map>
