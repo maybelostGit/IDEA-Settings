@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="设置服务" />
       <item value="配置" />
       <item value="定制" />
       <item value="定制化" />
@@ -50,7 +51,6 @@
       <item value="deploy" />
       <item value="enable" />
       <item value="eable" />
-      <item value="前处理" />
     </histories>
     <option name="languageScores">
       <map>
