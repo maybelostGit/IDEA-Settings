@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="单项" />
+      <item value="enble" />
+      <item value="is able" />
+      <item value="不可用" />
+      <item value="eable" />
+      <item value="可用" />
+      <item value="是否可用" />
+      <item value="修改人" />
+      <item value="类别" />
+      <item value="是否启用" />
+      <item value="带根骨的牙颌模型" />
+      <item value="牙颌模型" />
       <item value="设置服务" />
       <item value="配置" />
       <item value="定制" />
@@ -39,23 +51,11 @@
       <item value="inject" />
       <item value="dream it possible" />
       <item value="possible" />
-      <item value="apprearance" />
-      <item value="cursor" />
-      <item value="结构" />
-      <item value="structure" />
-      <item value="tail" />
-      <item value="enterprise" />
-      <item value="hidden" />
-      <item value="layout" />
-      <item value="META" />
-      <item value="deploy" />
-      <item value="enable" />
-      <item value="eable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="144" />
-        <entry key="ENGLISH" value="145" />
+        <entry key="CHINESE" value="148" />
+        <entry key="ENGLISH" value="149" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
