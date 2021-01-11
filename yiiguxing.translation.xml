@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="类别" />
+      <item value="分类" />
+      <item value="catelogy" />
       <item value="批量" />
       <item value="单项" />
       <item value="enble" />
@@ -10,7 +13,6 @@
       <item value="可用" />
       <item value="是否可用" />
       <item value="修改人" />
-      <item value="类别" />
       <item value="是否启用" />
       <item value="带根骨的牙颌模型" />
       <item value="牙颌模型" />
@@ -49,13 +51,11 @@
       <item value="delegate Expression" />
       <item value="Error creating bean with name 'sqlSessionFactory' defined in class path resource [com/baomidou/" />
       <item value="存在" />
-      <item value="inject" />
-      <item value="dream it possible" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="148" />
-        <entry key="ENGLISH" value="149" />
+        <entry key="CHINESE" value="149" />
+        <entry key="ENGLISH" value="150" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
