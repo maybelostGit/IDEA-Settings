@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="资源不存在" />
       <item value="交换" />
       <item value="类别" />
       <item value="分类" />
@@ -34,7 +35,6 @@
       <item value="interma" />
       <item value="组长" />
       <item value="介绍" />
-      <item value="资源不存在" />
       <item value="原始文件" />
       <item value="原始的" />
       <item value="上传图片" />
