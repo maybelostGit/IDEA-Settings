@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Illegal State" />
+      <item value="Illega" />
       <item value="资源不存在" />
       <item value="交换" />
       <item value="类别" />
@@ -49,13 +51,11 @@
       <item value="quick" />
       <item value="elevator" />
       <item value="clinical Name" />
-      <item value="delegate Expression" />
-      <item value="Error creating bean with name 'sqlSessionFactory' defined in class path resource [com/baomidou/" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="149" />
-        <entry key="ENGLISH" value="150" />
+        <entry key="CHINESE" value="151" />
+        <entry key="ENGLISH" value="152" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
