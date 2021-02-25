@@ -1,13 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="类别" />
       <item value="margin" />
       <item value="padding" />
       <item value="Illegal State" />
       <item value="Illega" />
       <item value="资源不存在" />
       <item value="交换" />
-      <item value="类别" />
       <item value="分类" />
       <item value="catelogy" />
       <item value="批量" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="152" />
-        <entry key="ENGLISH" value="152" />
+        <entry key="ENGLISH" value="153" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
