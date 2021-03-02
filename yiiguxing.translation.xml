@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="script" />
+      <item value="medium" />
+      <item value="mudium" />
+      <item value="mudi" />
+      <item value="中等的" />
       <item value="four" />
       <item value="4" />
       <item value="关联" />
@@ -46,16 +51,11 @@
       <item value="原始的" />
       <item value="上传图片" />
       <item value="开始时间" />
-      <item value="备注" />
-      <item value="阶段编号" />
-      <item value="treatment records" />
-      <item value="矫治记录" />
-      <item value="服务" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="153" />
-        <entry key="ENGLISH" value="153" />
+        <entry key="CHINESE" value="154" />
+        <entry key="ENGLISH" value="154" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
