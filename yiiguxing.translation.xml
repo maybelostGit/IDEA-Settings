@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="绑定的医院" />
+      <item value="绑定" />
       <item value="script" />
       <item value="medium" />
       <item value="mudium" />
@@ -49,13 +51,11 @@
       <item value="介绍" />
       <item value="原始文件" />
       <item value="原始的" />
-      <item value="上传图片" />
-      <item value="开始时间" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="154" />
-        <entry key="ENGLISH" value="154" />
+        <entry key="ENGLISH" value="155" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
