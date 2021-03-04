@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="输出路径" />
       <item value="备注" />
       <item value="selected" />
       <item value="已选择" />
@@ -50,7 +51,6 @@
       <item value="intermedia" />
       <item value="intermiditar" />
       <item value="interma" />
-      <item value="组长" />
     </histories>
     <option name="languageScores">
       <map>
