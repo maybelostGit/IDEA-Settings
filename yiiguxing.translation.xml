@@ -1,12 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="备注" />
       <item value="millis" />
       <item value="秒" />
       <item value="证书" />
       <item value="interperted" />
       <item value="输出路径" />
-      <item value="备注" />
       <item value="selected" />
       <item value="已选择" />
       <item value="绑定的医院" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="157" />
-        <entry key="ENGLISH" value="157" />
+        <entry key="ENGLISH" value="158" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
