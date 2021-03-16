@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="appliance" />
+      <item value="applianceType" />
+      <item value="矫治器" />
+      <item value="流程" />
       <item value="科室" />
       <item value="department" />
       <item value="标题" />
@@ -47,14 +51,10 @@
       <item value="带根骨的牙颌模型" />
       <item value="牙颌模型" />
       <item value="设置服务" />
-      <item value="配置" />
-      <item value="定制" />
-      <item value="定制化" />
-      <item value="诊室" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="159" />
+        <entry key="CHINESE" value="160" />
         <entry key="ENGLISH" value="160" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
