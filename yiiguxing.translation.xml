@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Submitted" />
+      <item value="submitted" />
+      <item value="submited" />
+      <item value="Submited" />
       <item value="appliance" />
       <item value="applianceType" />
       <item value="矫治器" />
@@ -47,10 +51,6 @@
       <item value="可用" />
       <item value="是否可用" />
       <item value="修改人" />
-      <item value="是否启用" />
-      <item value="带根骨的牙颌模型" />
-      <item value="牙颌模型" />
-      <item value="设置服务" />
     </histories>
     <option name="languageScores">
       <map>
