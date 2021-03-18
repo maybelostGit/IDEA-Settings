@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="描述" />
       <item value="Submitted" />
       <item value="submitted" />
       <item value="submited" />
@@ -50,12 +51,11 @@
       <item value="eable" />
       <item value="可用" />
       <item value="是否可用" />
-      <item value="修改人" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="160" />
-        <entry key="ENGLISH" value="160" />
+        <entry key="ENGLISH" value="161" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
