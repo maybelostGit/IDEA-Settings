@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="jiao" />
       <item value="sale" />
       <item value="销售" />
       <item value="隐形矫治器" />
@@ -50,7 +51,6 @@
       <item value="Illegal State" />
       <item value="Illega" />
       <item value="资源不存在" />
-      <item value="交换" />
     </histories>
     <option name="languageScores">
       <map>
