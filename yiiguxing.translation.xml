@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="隐形矫治器" />
+      <item value="隐形的" />
+      <item value="隐形" />
+      <item value="固定矫治器" />
+      <item value="Fixed" />
       <item value="Vector" />
       <item value="矫治类型" />
       <item value="Concurrent" />
@@ -46,16 +51,11 @@
       <item value="交换" />
       <item value="分类" />
       <item value="catelogy" />
-      <item value="批量" />
-      <item value="单项" />
-      <item value="enble" />
-      <item value="is able" />
-      <item value="不可用" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="162" />
-        <entry key="ENGLISH" value="162" />
+        <entry key="ENGLISH" value="163" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
