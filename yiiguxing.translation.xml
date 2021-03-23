@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sale" />
+      <item value="销售" />
       <item value="隐形矫治器" />
       <item value="隐形的" />
       <item value="隐形" />
@@ -49,12 +51,10 @@
       <item value="Illega" />
       <item value="资源不存在" />
       <item value="交换" />
-      <item value="分类" />
-      <item value="catelogy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="162" />
+        <entry key="CHINESE" value="163" />
         <entry key="ENGLISH" value="163" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
