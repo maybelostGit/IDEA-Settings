@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rollback" />
+      <item value="流程回退" />
+      <item value="回退" />
       <item value="Indirect" />
       <item value="后台" />
       <item value="jiao" />
@@ -48,14 +51,11 @@
       <item value="4" />
       <item value="关联" />
       <item value="类别" />
-      <item value="margin" />
-      <item value="padding" />
-      <item value="Illegal State" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="164" />
-        <entry key="ENGLISH" value="164" />
+        <entry key="CHINESE" value="165" />
+        <entry key="ENGLISH" value="165" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="1" />
