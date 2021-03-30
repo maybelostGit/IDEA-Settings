@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="average" />
+      <item value="averager" />
       <item value="rollback" />
       <item value="流程回退" />
       <item value="回退" />
@@ -49,8 +51,6 @@
       <item value="中等的" />
       <item value="four" />
       <item value="4" />
-      <item value="关联" />
-      <item value="类别" />
     </histories>
     <option name="languageScores">
       <map>
