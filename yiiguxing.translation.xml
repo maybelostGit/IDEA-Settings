@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="raw" />
+      <item value="blame" />
+      <item value="interview" />
+      <item value="core" />
       <item value="average" />
       <item value="averager" />
       <item value="rollback" />
@@ -47,10 +51,6 @@
       <item value="script" />
       <item value="medium" />
       <item value="mudium" />
-      <item value="mudi" />
-      <item value="中等的" />
-      <item value="four" />
-      <item value="4" />
     </histories>
     <option name="languageScores">
       <map>
