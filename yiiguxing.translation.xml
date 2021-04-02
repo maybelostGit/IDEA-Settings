@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="离职" />
       <item value="附件" />
       <item value="average" />
       <item value="averager" />
@@ -50,7 +51,6 @@
       <item value="mudium" />
       <item value="mudi" />
       <item value="中等的" />
-      <item value="four" />
     </histories>
     <option name="languageScores">
       <map>
