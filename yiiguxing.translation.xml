@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="spendTime" />
+      <item value="耗时" />
       <item value="interval Num" />
       <item value="departure" />
       <item value="SEQUENCE" />
@@ -49,13 +51,11 @@
       <item value="已选择" />
       <item value="绑定的医院" />
       <item value="绑定" />
-      <item value="script" />
-      <item value="medium" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="166" />
-        <entry key="ENGLISH" value="166" />
+        <entry key="CHINESE" value="167" />
+        <entry key="ENGLISH" value="167" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="1" />
