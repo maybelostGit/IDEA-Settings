@@ -150,7 +150,7 @@
                     <option name="javaType" value="java.lang.Integer" />
                   </TypeMapper>
                   <TypeMapper>
-                    <option name="columnType" value="int8" />
+                    <option name="columnType" value="int(\(8\))?" />
                     <option name="javaType" value="java.lang.Long" />
                   </TypeMapper>
                   <TypeMapper>
