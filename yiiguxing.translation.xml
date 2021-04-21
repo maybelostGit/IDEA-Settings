@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="trial" />
+      <item value="trail" />
       <item value="Unique" />
       <item value="spendTime" />
       <item value="耗时" />
@@ -49,12 +51,10 @@
       <item value="interperted" />
       <item value="输出路径" />
       <item value="selected" />
-      <item value="已选择" />
-      <item value="绑定的医院" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="167" />
+        <entry key="CHINESE" value="168" />
         <entry key="ENGLISH" value="168" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FRENCH" value="1" />
